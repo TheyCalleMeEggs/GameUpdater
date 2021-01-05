@@ -6,7 +6,7 @@
 /fonts/
 /glsl/
 /icon/
-/img/
+/img/eggsuit.png 
 /js/
 /movies/
 
