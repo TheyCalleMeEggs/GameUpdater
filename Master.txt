@@ -6,7 +6,7 @@
 /fonts/
 /glsl/
 /icon/
-/img/eggsuit.png 
+/img/eggsuit.png https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/eggsuit.png
 /js/
 /movies/
 
