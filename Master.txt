@@ -2,12 +2,8 @@
 <Version: 1.01>
 
 /audio/
-/data/
-/fonts/
-/glsl/
-/icon/
+
 /img/pictures/eggsuit.png https://imgur.com/NPCUw2y
-/js/
-/movies/
+
 
 <End of Version
