@@ -1,6 +1,13 @@
 
 <Version: 0.01>
 
-/data/test.zip 
+/audio/
+/data/
+/fonts/
+/glsl/
+/icon/
+/img/
+/js/
+/movies/
 
 <End of Version
