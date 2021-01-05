@@ -1,6 +1,6 @@
 
 <Version: 1.01>
 
-/img/pictures/eggsuit.png https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/eggsuit.png
+/data/bruh.txt https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/bruh.txt
 
 <End of Version
