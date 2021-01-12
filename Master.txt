@@ -1,6 +1,41 @@
 
 <Version: 1.01>
 
-/img/bruh.txt https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/bruh.txt
+/data/Map001.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map001.json
+/data/Map002.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map002.json
+/data/Map003.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map003.json
+/data/Map004.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map004.json
+/data/Map005.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map005.json
+/data/Map006.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map006.json
+/data/Map007.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map007.json
+/data/Map008.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map008.json
+/data/Map009.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map009.json
+/data/Map010.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map010.json
+/data/Map011.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map011.json
+/data/Map012.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map012.json
+/data/Map013.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map013.json
+/data/Map014.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map014.json
+/data/Map015.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map015.json
+/data/Map016.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map016.json
+/data/Map017.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map017.json
+/data/Map018.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map018.json
+/data/Map019.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map019.json
+/data/Map020.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map020.json
+/data/Map021.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map021.json
+/data/Map022.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map022.json
+/data/Map023.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map023.json
+/data/Map024.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map024.json
+/data/Map025.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map025.json
+/data/Map026.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map026.json
+/data/Map027.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map027.json
+/data/Map028.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map028.json
+/data/Map029.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map029.json
+/data/Map030.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map030.json
+/data/Map031.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map031.json
+/data/Map032.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map032.json
+/data/Map033.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map033.json
+/data/Map034.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map034.json
+/data/Map035.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map035.json
+
 
 <End of Version>
