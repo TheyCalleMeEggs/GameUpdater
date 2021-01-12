@@ -3,4 +3,4 @@
 
 /img/bruh.txt https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/bruh.txt
 
-<End of Version
+<End of Version>
