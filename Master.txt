@@ -1,6 +1,6 @@
 
 <Version: 1.01>
 
-/data/bruh.txt https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/bruh.txt
+/img/bruh.txt https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/bruh.txt
 
 <End of Version
