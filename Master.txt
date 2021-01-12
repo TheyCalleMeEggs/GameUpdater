@@ -1,5 +1,5 @@
 
-<Version: 1.01>
+<Version: 1.0101>
 
 /data/Map001.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map001.json
 /data/Map002.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map002.json
