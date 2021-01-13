@@ -1,0 +1,63 @@
+<block:-1,-1,10,10,offbot,center,Island>
+Game Made by Alexander Cralley
+
+\c[2]Engine:
+Degica
+RPG Maker MV
+
+\c[2]Developers:
+Alexander Cralley
+
+\c[2]Writers:
+Alexander Cralley
+Mackenzie Main
+
+\c[2]Play Testers:
+Grumpus
+Antiant
+Le bEans
+
+\c[2]Concept art:
+Pigeno
+Alexander Cralley
+Mackenzie Main
+
+\c[2]Artwork by:
+Alexander Cralley
+Mackenzie Main
+Pigeno
+
+\c[2]Icon Designed by:
+Rice
+https://www.instagram.com/rice_rice_babey/
+
+\c[2]Music From:
+PeriTune
+Darren Curtis
+PeriTune Vocal Library: Sinsy Yoko
+
+
+\c[2]Aditional Credit to:
+SRDude
+Sanshiro
+Tor Damian Design
+Terrax
+Sasuke KANNAZUKI
+Yanfly Engine Plugins
+Shaz
+Denis Kuznetsov
+William Ramsey
+RPG Maker Irina
+Galv
+Thernz
+ KADOKAWA
+Degica   
+Marimo 
+
+Super Dialogue Audio Pack by Dillon Becker. This work is licensed under CC BY 4.0
+https://bckr.itch.io/sdap
+https://creativecommons.org/licenses/by/4.0/legalcode
+No changes were made
+
+RPG Arsenal by 
+</block>
