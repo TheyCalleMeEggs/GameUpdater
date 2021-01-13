@@ -1,5 +1,7 @@
 
 <Version: 1.01>
 
+/data/credits.txt https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/credits.txt
+
 <End of Version>
 
