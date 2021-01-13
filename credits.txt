@@ -3,7 +3,9 @@ Game Made by Alexander Cralley
 
 \c[2]Engine:
 Created by Degica
-Engine used: RPG Maker MV
+
+\c[2]Engine used:
+RPG Maker MV
 
 \c[2]Developers:
 Alexander Cralley
