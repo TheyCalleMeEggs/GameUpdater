@@ -1,7 +1,12 @@
-
 <Version: 1.01>
 
 /data/credits.txt https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/credits.txt
 
 <End of Version>
 
+<Version: 1.01001>
+
+/js/plugins/YEP_CoreEngine.js https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/YEP_CoreEngine.js
+/data/Map002.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map002.json
+
+<End of Version>
