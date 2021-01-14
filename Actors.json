@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"mc","characterIndex":0,"characterName":"mc1","classId":1,"equips":[8,23,2,3,0],"faceIndex":0,"faceName":"mc1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Erin","nickname":"Dawn's Sun","note":"","profile":""},
+{"id":2,"battlerName":"mcF","characterIndex":4,"characterName":"mc1","classId":1,"equips":[8,23,2,3,0],"faceIndex":0,"faceName":"mcf","traits":[],"initialLevel":1,"maxLevel":99,"name":"Erin","nickname":"Dawn's Sun","note":"","profile":""},
+{"id":3,"battlerName":"Grace","characterIndex":0,"characterName":"Grace","classId":4,"equips":[3,0,2,3,0],"faceIndex":0,"faceName":"Grace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Grace","nickname":"Shadow's Mercy","note":"","profile":""},
+{"id":4,"battlerName":"Peter","characterIndex":0,"characterName":"Peter","classId":7,"equips":[2,0,2,3,0],"faceIndex":0,"faceName":"Peter","traits":[],"initialLevel":1,"maxLevel":99,"name":"Peter","nickname":"Quick Thinker","note":"","profile":"Your oldest friend. For a long time, he went of to the\nknight's academy. "},
+{"id":5,"battlerName":"Pepper","characterIndex":0,"characterName":"Pepper","classId":6,"equips":[6,0,2,3,0],"faceIndex":0,"faceName":"Pepper","traits":[],"initialLevel":1,"maxLevel":99,"name":"Pepper","nickname":"Illusive Pickpocket","note":"","profile":""},
+{"id":6,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marsha","nickname":"Dark Happiness","note":"","profile":""},
+{"id":7,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucius","nickname":"Kind Lion","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"Nature","classId":10,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":3,"maxLevel":99,"name":"Boyd","nickname":"","note":"","profile":"He's a dog! How cute."},
+{"id":10,"battlerName":"","characterIndex":6,"characterName":"People3","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"bruh","nickname":"","note":"","profile":""}
+]
