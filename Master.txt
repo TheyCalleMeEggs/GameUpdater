@@ -10,3 +10,18 @@
 /data/Map002.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map002.json
 
 <End of Version>
+
+<Version: 1.01002>
+
+/data/MapInfos.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/MapInfos.json
+/data/System.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/System.json
+/js/main.js https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/main.js
+/js/plugins.js https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/plugins.js
+/js/rpg_core.js https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/rpg_core.js
+/js/rpg_managers.js https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/rpg_managers.js
+/js/rpg_objects.js https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/rpg_objects.js
+/js/rpg_scenes.js https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/rpg_scenes.js
+/js/rpg_sprites.js https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/rpg_sprites.js
+/js/rpg_windows.js https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/rpg_windows.js
+
+<End of Version>
