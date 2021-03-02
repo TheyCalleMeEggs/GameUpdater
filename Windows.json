@@ -1,0 +1,1 @@
+{"Scene_Menu":{"Window_MenuCommand":{"x":576,"y":0,"opacity":"255","width":"240","rows":"10","cols":"1","lineHeight":"36","align":"right"},"Window_MenuStatus":{"x":0,"y":0},"Window_Gold":{"x":576,"y":552,"opacity":"255","width":"240","height":"72"}},"Scene_Battle":{"Window_BattleStatus":{"x":192,"y":444},"Window_ActorCommand":{"x":0,"y":444}}}

@@ -3,9 +3,7 @@ Game Made by Alexander Cralley
 
 \c[2]Engine:
 Created by Degica
-
-\c[2]Engine used:
-RPG Maker MV
+Engine used: RPG Maker MV
 
 \c[2]Developers:
 Alexander Cralley
@@ -51,8 +49,8 @@ Thernz
 Degica   
 Marimo 
 
-Special thanks to all of my playtesters, and 
-my family and friends who supported me the entire way. 
+Special thanks to all of my playtesters,
+and my family and friends who supported me the entire way. 
 
 I love you guys
 </block>
