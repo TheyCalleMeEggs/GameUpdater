@@ -80,3 +80,9 @@
 /js/plugins.js https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/plugins.js
 
 <End of Version>
+
+<Version: 1.01004>
+
+/data/MapHUD.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/MapHUD.json
+
+<End of Version>
