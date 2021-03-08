@@ -91,6 +91,7 @@
 
 /data/Map010.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map010.json
 /data/Map002.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map002.json
+/data/Map001.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map001.json
 /data/MapInfos.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/MapInfos.json
 /data/System.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/System.json
 
