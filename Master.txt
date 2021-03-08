@@ -86,3 +86,12 @@
 /data/MapHUD.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/MapHUD.json
 
 <End of Version>
+
+<Version: 1.01005>
+
+/data/Map010.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map010.json
+/data/Map002.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/Map002.json
+/data/MapInfos.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/MapInfos.json
+/data/System.json https://raw.githubusercontent.com/TheyCalleMeEggs/GameUpdater/main/System.json
+
+<End of Version>
